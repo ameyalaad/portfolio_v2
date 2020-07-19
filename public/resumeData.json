@@ -1,0 +1,133 @@
+{
+	"main": {
+		"name": "Ameya Laad",
+		"description": "",
+		"image": "profilepic.jpg",
+		"bio": "A student at BITS Pilani K. K. Birla Goa Campus, I am interested in Deep Learning applications as well as full-stack development technologies. I have previously worked with a variety of technologies and have experience in Tensorflow, React, Ionic, Android, Bootstrap and Python",
+		"contactmessage": "Hi there! Please enter your message below.",
+		"email": "ameyalaad200@gmail.com",
+		"phone": "(+91) 702-073-3147",
+		"github": "https://github.com/ameyalaad",
+		"project": "https://github.com/nordicgiant2/react-nice-resume",
+		"address": {
+			"street": "Cosmos, Magarpatta City",
+			"city": "Pune",
+			"state": "Maharashtra",
+			"zip": "411013"
+		},
+		"website": "localhost:3000",
+		"resumedownload": "./resume.pdf",
+		"social": [
+			{
+				"name": "twitter",
+				"url": "https://twitter.com/laadla1320",
+				"className": "fa fa-twitter"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/ameyalaad/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/ameyalaad/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/ameya.laad",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/ameyalaad",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Skilled in working with JavaScript, I love to create full-stack web applications. I have a thrill towards Deep Learning, and would love to collaborate on it.",
+		"education": [
+			{
+				"school": "BITS Pilani, K. K. Birla Goa Campus",
+				"degree": "B. E. (Hons.) Computer Science (8.7 CGPA)",
+				"graduated": "May 2022",
+				"description": "Currently just finished my second year, and have completed courses: Data Structures and Algorithms, Object Oriented Programming and DBMS"
+			}
+		],
+		"work": [
+			{
+				"company": "Microsoft India Development Center, Bangalore",
+				"title": "Software Engineer Intern",
+				"years": "May 2020 - July 2020",
+				"description": "I analyzed data for the Microsoft Bookings platform. This included analysis of existing telemetry as well as identifying missing datapoints and adding them. The website was based on the React framework"
+			},
+			{
+				"company": "MindNerves Technology",
+				"title": "Intern",
+				"years": "June 2019 - August 2019",
+				"description": "Developed a milk delivery service application as a Full Stack developer using Ionic Framework, Loopback and MongoDB."
+			}
+		],
+		"skills": [
+			{
+				"name": "Deep Learning",
+				"level": "80%"
+			},
+			{
+				"name": "Python",
+				"level": "90%"
+			},
+			{
+				"name": "Java",
+				"level": "80%"
+			},
+			{
+				"name": "Android App Development",
+				"level": "80%"
+			},
+			{
+				"name": "Tensorflow",
+				"level": "70%"
+			},
+			{
+				"name": "ReactJs",
+				"level": "50%"
+			},
+			{
+				"name": "CSS",
+				"level": "50%"
+			},
+			{
+				"name": "Ionic",
+				"level": "20%"
+			},
+			{
+				"name": "Git",
+				"level": "70%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "ChainVoter",
+				"category": "A blockchain based voting mechanism. This uses the Microsft Azure FaceAPI for security",
+				"image": "face-api.png",
+				"url": "https://www.youtube.com/watch?v=uB9xFYdtcY4"
+			},
+			{
+				"title": "IRCS EQAS Website",
+				"category": "A website I designed for IRCS Mumbai's Blood Bank",
+				"image": "ircsmeqas.jpg",
+				"url": "https://ircsmumbai.github.io"
+			}
+		],
+		"testimonials": [
+			{
+				"user": "Test user 1",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque nibh vitae dui sollicitudin accumsan sed vel metus. Vestibulum tortor tortor, tempus eget nunc non, porta mollis dui. Duis pellentesque odio non sapien mattis laoreet. Nullam at ornare leo, quis egestas dui. Vestibulum nibh urna, tincidunt et turpis in, ullamcorper tristique nulla. Cras volutpat felis leo, id sodales massa aliquet a. Quisque congue luctus condimentum. Aliquam erat volutpat. Praesent cursus, nibh eu convallis lobortis, leo ante scelerisque elit, pellentesque consequat leo libero quis libero. In hac habitasse platea dictumst. Ut pretium eros vel tortor ultricies, quis fermentum augue placerat. Cras imperdiet placerat lacus, vitae posuere dui lacinia a."
+			}
+		]
+	}
+}
