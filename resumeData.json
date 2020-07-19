@@ -111,6 +111,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "React Website",
+				"category": "The website you are currently on",
+				"image": "website.jpg",
+				"url": "https://github.com/ameyalaad/react-portfolio"
+			},
+			{
 				"title": "ChainVoter",
 				"category": "A blockchain based voting mechanism. This uses the Microsft Azure FaceAPI for security",
 				"image": "face-api.png",
