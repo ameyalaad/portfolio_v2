@@ -1,5 +1,5 @@
 # A React Portfolio for Ameya Laad 
-### Website is live [here](https://ameyalaad.github.io/react-portfolio)
+### Website is live [here](https://ameyalaad.github.io/portfolio_v2)
 
 This website is based off a template, available at [React-Nice-Resume](https://github.com/nordicgiant2/react-nice-resume)
 
@@ -11,14 +11,14 @@ As CI is enabled in this repository, in order to run this locally using npm star
 ### 1. Clone the project
 
 ```shell
-git clone https://github.com/ameyalaad/react-portfolio.git
+git clone https://github.com/ameyalaad/portfolio_v2.git
 ```
 
 ### 2. Change the "homepage" url
 The homepage property in package.json need to be changed to "."
 
 ```code
-- "homepage": "https://ameyalaad.github.io/react-portfolio"
+- "homepage": "https://ameyalaad.github.io/portfolio_v2"
 + "homepage": "."
 ```
 
