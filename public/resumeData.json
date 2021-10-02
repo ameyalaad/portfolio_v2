@@ -50,12 +50,18 @@
 		"education": [
 			{
 				"school": "BITS Pilani, K. K. Birla Goa Campus",
-				"degree": "B. E. (Hons.) Computer Science (8.7 CGPA)",
+				"degree": "B. E. (Hons.) Computer Science (9 CGPA)",
 				"graduated": "May 2022",
-				"description": "Currently just finished my second year, and have completed courses: Data Structures and Algorithms, Object Oriented Programming and DBMS"
+				"description": "ML, AI, DSA"
 			}
 		],
 		"work": [
+			{
+				"company": "Microsoft India Development Center, Bangalore",
+				"title": "Software Engineer Intern",
+				"years": "May 2021 - July 2021",
+				"description": "Worked with the Windows Defender team on a Chrome extension (>40k downloads) for Data Leak Prevention. Introduced a new feature to inform users about the sensitivity of a document."
+			},
 			{
 				"company": "Microsoft India Development Center, Bangalore",
 				"title": "Software Engineer Intern",
