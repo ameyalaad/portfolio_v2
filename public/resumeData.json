@@ -111,6 +111,18 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "Predicting COVID-19 in India using Machine Learning",
+				"category": "Tested over 5 machine (LR, ARIMA, HMM) and deep learning (LSTM, Seq2Seq) models against the second wave of the disease.",
+				"image": "graph.png",
+				"url": "https://github.com/hethsheth/COVID-19-India"
+			},
+			{
+				"title": "Rasoee",
+				"category": "Developed an Android application that can recognize images of food, and give links to recipes using an API call.",
+				"image": "rasoee.png",
+				"url": "https://github.com/arijitgupta42/Rasoee"
+			},
+			{
 				"title": "React Website",
 				"category": "The website you are currently on",
 				"image": "website.jpg",
