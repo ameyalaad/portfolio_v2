@@ -69,44 +69,7 @@
 				"description": "Developed a milk delivery service application as a Full Stack developer using Ionic Framework, Loopback and MongoDB."
 			}
 		],
-		"skills": [
-			{
-				"name": "Deep Learning",
-				"level": "80%"
-			},
-			{
-				"name": "Python",
-				"level": "90%"
-			},
-			{
-				"name": "Java",
-				"level": "80%"
-			},
-			{
-				"name": "Android App Development",
-				"level": "80%"
-			},
-			{
-				"name": "Tensorflow",
-				"level": "70%"
-			},
-			{
-				"name": "ReactJs",
-				"level": "50%"
-			},
-			{
-				"name": "CSS",
-				"level": "50%"
-			},
-			{
-				"name": "Ionic",
-				"level": "20%"
-			},
-			{
-				"name": "Git",
-				"level": "70%"
-			}
-		]
+		"skills": []
 	},
 	"portfolio": {
 		"projects": [
